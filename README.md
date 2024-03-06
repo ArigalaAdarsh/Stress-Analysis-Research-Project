@@ -1,5 +1,5 @@
-#Stress Analysis Research
-##Overview
+# Stress Analysis Research
+## Overview
 
 This repository contains the data and analysis conducted for stress analysis research. The research aimed to understand the sources of stress, its impact on individuals' lives, and associated factors.
 Dataset
@@ -26,27 +26,27 @@ The dataset used in this research consists of 617 real-time records collected fr
     Belief about Stress Impact
     Age
 
-##Analysis
+## Analysis
 
-###The analysis was conducted to explore correlations, trends, and patterns within the dataset. Key insights include:
+### The analysis was conducted to explore correlations, trends, and patterns within the dataset. Key insights include:
 
     Identification of significant sources of stress among participants
     Assessment of the prevalence of various symptoms associated with stress
     Analysis of demographic factors influencing stress levels
     Evaluation of beliefs about the impact of stress on daily life and well-being
 
-###Repository Structure
+### Repository Structure
 
-    data/: Contains the raw dataset used for analysis.
+    Stress_Analysis_dataset: Contains the raw dataset used for analysis.
     Stress _Analysis.ipynb: Jupyter Notebook containing the data analysis process.
     README.md: This file providing an overview of the repository.
  
-###Usage
+### Usage
 
     Clone this repository to your local machine.
     Open the Stress _Analysis.ipynb notebook to view the analysis process and results.
     Feel free to explore the dataset and analysis to understand the insights obtained.
 
-###Conclusion
+### Conclusion
 
 The stress analysis research provides valuable insights into the factors contributing to stress and its impact on individuals' lives. Further studies and interventions can be designed based on these findings to address stress-related issues effectively.
