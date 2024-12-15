@@ -1,51 +1,56 @@
 # Stress Analysis Research
+
 ## Overview
 
-This repository contains the data and analysis conducted for stress analysis research. The research aimed to understand the sources of stress, its impact on individuals' lives, and associated factors.
-Dataset
+This repository contains the data and analysis conducted for stress analysis research. The aim of this research was to explore the sources of stress, its impact on individuals' lives, and identify associated factors that contribute to stress-related challenges.
 
-The dataset used in this research consists of 617 real-time records collected from individuals. Each record includes various demographic information and responses to questions related to stress and its effects. Here are the columns present in the dataset:
+## Dataset
 
-    Name
-    Email
-    Gender
-    Date of Birth
-    Study Year
-    Sources of Stress
-    Lack of Concentration
-    Problems with Decision Making
-    Feeling of Sadness
-    Irritability and Mood Swings
-    Lack of Interest or Pleasure
-    Changes in Food Habits
-    Trouble Sleeping
-    Physical Symptoms when Stressed
-    Self-Perception
-    Suicidal Thoughts
-    Stress Level
-    Belief about Stress Impact
-    Age
+The dataset used in this research consists of 617 real-time records collected from individuals. Each record includes various demographic information and responses to questions related to stress and its effects. The dataset contains the following columns:
+
+- **Name**
+- **Email**
+- **Gender**
+- **Date of Birth**
+- **Study Year**
+- **Sources of Stress**
+- **Lack of Concentration**
+- **Problems with Decision Making**
+- **Feeling of Sadness**
+- **Irritability and Mood Swings**
+- **Lack of Interest or Pleasure**
+- **Changes in Food Habits**
+- **Trouble Sleeping**
+- **Physical Symptoms when Stressed**
+- **Self-Perception**
+- **Suicidal Thoughts**
+- **Stress Level**
+- **Belief about Stress Impact**
+- **Age**
 
 ## Analysis
 
-### The analysis was conducted to explore correlations, trends, and patterns within the dataset. Key insights include:
+The analysis was conducted to explore correlations, trends, and patterns within the dataset. Key insights include:
 
-    Identification of significant sources of stress among participants
-    Assessment of the prevalence of various symptoms associated with stress
-    Analysis of demographic factors influencing stress levels
-    Evaluation of beliefs about the impact of stress on daily life and well-being
+- Identification of significant sources of stress among participants.
+- Assessment of the prevalence of various symptoms associated with stress.
+- Analysis of demographic factors influencing stress levels.
+- Evaluation of beliefs about the impact of stress on daily life and well-being.
 
-### Repository Structure
+## Repository Structure
 
-    Stress_Analysis_dataset: Contains the raw dataset used for analysis.
-    Stress _Analysis.ipynb: Jupyter Notebook containing the data analysis process.
-    README.md: This file providing an overview of the repository.
- 
-### Usage
+- **Stress_Analysis_dataset**: Contains the raw dataset used for analysis.
+- **Stress_Analysis.ipynb**: Jupyter Notebook containing the data analysis process and results.
+- **README.md**: This file, which provides an overview of the repository.
 
-    Clone this repository to your local machine.
-    Open the Stress _Analysis.ipynb notebook to view the analysis process and results.
-    Feel free to explore the dataset and analysis to understand the insights obtained.
+## Usage
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/ArigalaAdarsh/Stress-Analysis-Research-Project.git
+   ```
+
 
 ### Conclusion
 
